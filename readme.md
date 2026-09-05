@@ -1,6 +1,16 @@
 
 🎲 Sorteador - Responsivo
-![Preview do Projeto](./assets/projetosortear.png)
+
+<p align="center">
+  <img src="./assets/projetosortear.png" width="600"/>
+</p>
+
+<p align="center">
+  <a href="https://paiva-90.github.io/Sorteador/">
+    <img src="https://img.shields.io/badge/🎯%20ACESSAR%20SITE%20AO%20VIVO-FFC107?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
 
 Projeto simples e responsivo para sortear um número aleatório.
 
